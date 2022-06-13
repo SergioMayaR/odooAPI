@@ -1,0 +1,5 @@
+'id','message_main_attachment_id','name','description','active', 'manager_id' , 'company_id' , 'license_plate' ,  'vin_sn'   ,
+'trailer_hook' , 'driver_id' , 'future_driver_id' , 'model_id' , 'brand_id' , 'next_assignation_date' , 'acquisition_date' , 'first_contract_date','color',
+'state_id','location', 'seats' , 'model_year' , 'doors' , 'odometer_unit' , 'transmission' , 'fuel_type' , 'horsepower' , 'horsepower_tax' , 'power' , 'co2' , 
+'co2_standard' , car_value , net_car_value , residual_value , plan_to_change_car , plan_to_change_bike , frame_type , electric_assistance , frame_size , create_uid ,
+'create_date', 'write_uid' ,'write_date'
